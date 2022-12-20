@@ -1,6 +1,6 @@
 html {
     height: 100%;
-}
+} 
 
 body {
     margin: 0;
@@ -8,10 +8,7 @@ body {
     font-family: 'IBM Plex Serif';
     background: linear-gradient(#141e30, #243b55);
 }
-.img {
-    text-align: right;
-    
-}
+
 
 .form{
     position: absolute;
